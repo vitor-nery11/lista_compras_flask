@@ -4,9 +4,11 @@ Um aplicativo web full-stack para gerenciamento de listas de compras, desenvolvi
 
 ## 📸 Screenshots
 
-![Tela do Sistema 1](./docs/screenshot_1.png)
-
-![Tela do Sistema 2](./docs/screenshot_2.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitor-nery11/lista_compras_flask/main/docs/screenshot_1.png" alt="Tela do Sistema 1" width="45%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/vitor-nery11/lista_compras_flask/main/docs/screenshot_2.png" alt="Tela do Sistema 2" width="45%" />
+</div>
 
 ## 🚀 Tecnologias Utilizadas
 
